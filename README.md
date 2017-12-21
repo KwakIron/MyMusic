@@ -10,3 +10,6 @@ firebase,picasso,contentResolver
 1. dfsdfsd
 * sad
  * sad
+  * asd
+  
+ + adf
