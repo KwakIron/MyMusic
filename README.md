@@ -10,8 +10,5 @@ firebase,picasso,contentResolver
 1. dfsdfsd
 * sad
   * sad
-  * asd
+    * asd
   
-* 빨강
-  * 녹색
-    * 파랑
