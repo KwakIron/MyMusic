@@ -27,3 +27,15 @@ Link: [Google][googlelink]
 
 <http://example.com/>
 <address@example.com>
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+++underline++
+
+~~cancelline~~
